@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN sudo python3 deploy.py
+RUN python3 deploy.py
