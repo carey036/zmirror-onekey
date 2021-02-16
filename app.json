@@ -1,0 +1,8 @@
+{
+    "name": "zmirror-onekey",
+    "description": "Deploy zmirror on Heroku.",
+    "keywords": ["mirror"],
+    "website": "https://github.com/carey036/zmirror-onekey/",
+    "repository": "https://github.com/carey036/zmirror-onekey",
+    "stack": "python"
+}
