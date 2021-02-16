@@ -4,5 +4,5 @@
     "keywords": ["mirror"],
     "website": "https://github.com/carey036/zmirror-onekey/",
     "repository": "https://github.com/carey036/zmirror-onekey",
-    "stack": "python"
+    "stack": "container"
 }
